@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answers": [
+            "London",
+            "Berlin",
+            "Paris",
+            "Rome"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answers": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "O2"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+            "Mars",
+            "Jupiter",
+            "Venus",
+            "Mercury"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "What is the colour of Mars",
+        "answers": [
+            "red",
+            "green",
+            "blue",
+            "white"
+        ],
+        "correct_answer": 0
+    }
+]
